@@ -1,0 +1,644 @@
+canonical_identifier: bkk:krp/KR3eo002/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo002/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 壽世傳真
+  identifiers:
+    krp: KR3eo002
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo002.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo002_000-jc.yaml, hash: 'sha256:8cdc61ce0887c46b469b15e64a43727091356ce08adfcbb3ac5d0fd3d12b3b4f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo002_000-jc.markers.yaml, hash: 'sha256:b6302bf638e9854f46a1b883e8c377d876d9dbc17090925a8a835dc7ecfca480'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 636
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 357
+  label: 總述
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.h1s1
+    span:
+    - body
+    - 357
+    - 4108
+  label: 修養宜行外功第一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4d4
+    span:
+    - body
+    - 776
+    - 2208
+  label: 分行外功訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4d5
+    span:
+    - body
+    - 2208
+    - 4108
+  label: 合行外功訣歌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d2
+    span:
+    - body
+    - 2214
+    - 2420
+  label: 十二段錦歌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d3
+    span:
+    - body
+    - 2420
+    - 2493
+  label: 十二段錦第一圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d4
+    span:
+    - body
+    - 2493
+    - 2575
+  label: 十二段錦第二圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d5
+    span:
+    - body
+    - 2575
+    - 2665
+  label: 十二段錦第三圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d6
+    span:
+    - body
+    - 2665
+    - 2704
+  label: 十二段錦第四圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d7
+    span:
+    - body
+    - 2704
+    - 2814
+  label: 十二段錦第五圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d8
+    span:
+    - body
+    - 2814
+    - 2887
+  label: 十二段錦第六圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d9
+    span:
+    - body
+    - 2887
+    - 2939
+  label: 十二段錦第七圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d10
+    span:
+    - body
+    - 2939
+    - 2983
+  label: 十二段錦第八圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d11
+    span:
+    - body
+    - 2983
+    - 3064
+  label: 十二段錦第九圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d12
+    span:
+    - body
+    - 3064
+    - 3107
+  label: 十二段錦第十圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d13
+    span:
+    - body
+    - 3107
+    - 3215
+  label: 十二段錦第十一圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d14
+    span:
+    - body
+    - 3215
+    - 3313
+  label: 十二段錦第十二圖
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d15
+    span:
+    - body
+    - 3313
+    - 3374
+  label: 八段雜錦歌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d16
+    span:
+    - body
+    - 3374
+    - 3643
+  label: 擦面美顏訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d17
+    span:
+    - body
+    - 3643
+    - 3725
+  label: 六字治臟訣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d18
+    span:
+    - body
+    - 3725
+    - 3820
+  label: 六字行功依式樣歌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d19
+    span:
+    - body
+    - 3820
+    - 3884
+  label: 六字行功應時候歌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d4.d5d20
+    span:
+    - body
+    - 3884
+    - 4108
+  label: 六字行功各效驗歌
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d5.h1s1
+    span:
+    - body
+    - 4108
+    - 4479
+  label: 修養宜行內功第二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d5d4
+    span:
+    - body
+    - 4301
+    - 4305
+  label: 行內功圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d5d5
+    span:
+    - body
+    - 4305
+    - 4310
+  label: 內功正面圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d5d6
+    span:
+    - body
+    - 4310
+    - 4315
+  label: 內功背面圖
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d5d7
+    span:
+    - body
+    - 4315
+    - 4479
+  label: 內功訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.h1s1
+    span:
+    - body
+    - 4479
+    - 7507
+  label: 修養宜寶精寶氣寶神第三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6d4
+    span:
+    - body
+    - 4645
+    - 7507
+  label: 總論精氣神
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.d4d16
+    span:
+    - body
+    - 4981
+    - 5293
+  label: 精
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.d4d17
+    span:
+    - body
+    - 5293
+    - 5538
+  label: 氣
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.d4d18
+    span:
+    - body
+    - 5538
+    - 5802
+  label: 神
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.d4d19
+    span:
+    - body
+    - 5802
+    - 7501
+  label: 全神語
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d6.d4d20
+    span:
+    - body
+    - 7501
+    - 7507
+  label: 一字安心之要
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d7.h1s1
+    span:
+    - body
+    - 7507
+    - 8576
+  label: 修養宜知要知忌知傷第四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d7d4
+    span:
+    - body
+    - 7726
+    - 7955
+  label: 十要
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d7d5
+    span:
+    - body
+    - 7955
+    - 8160
+  label: 十忌
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d7d6
+    span:
+    - body
+    - 8160
+    - 8576
+  label: 十八傷
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d8.h1s1
+    span:
+    - body
+    - 8576
+    - 9916
+  label: 修養宜四時調理第五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d8d4
+    span:
+    - body
+    - 8857
+    - 9115
+  label: 春三月
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d8d5
+    span:
+    - body
+    - 9115
+    - 9529
+  label: 夏三月
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d8d6
+    span:
+    - body
+    - 9529
+    - 9700
+  label: 秋三月
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d8d7
+    span:
+    - body
+    - 9700
+    - 9916
+  label: 冬三月
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9.h1s1
+    span:
+    - body
+    - 9916
+    - 18058
+  label: 修養宜飲食調理第六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d6
+    span:
+    - body
+    - 10964
+    - 11585
+  label: 穀類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d7
+    span:
+    - body
+    - 11585
+    - 12300
+  label: 獸類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d8
+    span:
+    - body
+    - 12300
+    - 12599
+  label: 禽類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d9
+    span:
+    - body
+    - 12599
+    - 13186
+  label: 水族類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d10
+    span:
+    - body
+    - 13186
+    - 14284
+  label: 菜類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d11
+    span:
+    - body
+    - 14284
+    - 14598
+  label: 瓜類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d12
+    span:
+    - body
+    - 14598
+    - 15954
+  label: 果類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d9d13
+    span:
+    - body
+    - 15954
+    - 18058
+  label: 雜食類
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10.h1s1
+    span:
+    - body
+    - 18058
+    - 20036
+  label: 修養宜堤防疾病第七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d6
+    span:
+    - body
+    - 18714
+    - 18837
+  label: 心臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d7
+    span:
+    - body
+    - 18837
+    - 18971
+  label: 肝臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d8
+    span:
+    - body
+    - 18971
+    - 19061
+  label: 脾臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d9
+    span:
+    - body
+    - 19061
+    - 19199
+  label: 肺臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d10
+    span:
+    - body
+    - 19199
+    - 19361
+  label: 腎臟
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d10d11
+    span:
+    - body
+    - 19361
+    - 20036
+  label: 養生以保脾胃為主
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo002_jc_000-d11.h1s1
+    span:
+    - body
+    - 20036
+    - 22108
+  label: 修養宜護持藥物第八
+  type: section
+  level: 1
+hash: sha256:2eb98cc36e849fe813f2dfd8d1a58cc0dbabe647fac2894a21bcbab3dd5a48d3
