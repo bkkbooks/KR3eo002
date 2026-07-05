@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo002_000.yaml, hash: 'sha256:84c0ace6a099d045eaf5c0590ea53428749d53f9eeed6149151b2d35d25cf65a'}
+  - {seq: 0, filename: KR3eo002_000.yaml, hash: 'sha256:8cdc61ce0887c46b469b15e64a43727091356ce08adfcbb3ac5d0fd3d12b3b4f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:95ba96d9d04b0b15e7d005a90d0194ffcc28342340ab5b9d87cca7bda572d4d9'}
+  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:882e049508ceb3fed1a12a89eab367384a6dfef4a6148cb98a19c24681d45a00'}
 table_of_contents:
 - ref:
     seq: 0
@@ -641,7 +641,4 @@ table_of_contents:
   label: 修養宜護持藥物第八
   type: section
   level: 1
-hash: sha256:f2bd95abd5dabc22a41b4bd682554bdb4626c31a6c865a4dc57f92c1390ad6f6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ae116765d02d8e6bce5a6d60908ce4527245b8717dbac0a5a0c85decd36f8cd6
