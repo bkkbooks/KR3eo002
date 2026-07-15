@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo002/v1
 canonical_location: https://kanripo.org/bkk/KR3eo002/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 壽世傳真
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo002_000.yaml, hash: 'sha256:8cdc61ce0887c46b469b15e64a43727091356ce08adfcbb3ac5d0fd3d12b3b4f'}
+  - {seq: 0, filename: KR3eo002_000.yaml, hash: 'sha256:8302f796046c19e137c2aa43c04590320c79352da5c8cd320f80c5ef90a66ba7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:882e049508ceb3fed1a12a89eab367384a6dfef4a6148cb98a19c24681d45a00'}
+  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:5d57a21023201f570225cd8349311876e2d9d952544f058d4d40e23904b88e78'}
 table_of_contents:
 - ref:
     seq: 0
@@ -641,4 +641,7 @@ table_of_contents:
   label: 修養宜護持藥物第八
   type: section
   level: 1
-hash: sha256:ae116765d02d8e6bce5a6d60908ce4527245b8717dbac0a5a0c85decd36f8cd6
+hash: sha256:322ab0be6d55ae7fedc9387b1f50d4490dcb68350a73b054f43e15f65a0d6020
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
