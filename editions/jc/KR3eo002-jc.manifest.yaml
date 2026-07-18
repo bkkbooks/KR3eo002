@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo002_000-jc.yaml, hash: 'sha256:8cdc61ce0887c46b469b15e64a43727091356ce08adfcbb3ac5d0fd3d12b3b4f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo002_000-jc.markers.yaml, hash: 'sha256:b6302bf638e9854f46a1b883e8c377d876d9dbc17090925a8a835dc7ecfca480'}
+  - {seq: 0, role: markers, filename: assets/KR3eo002_000-jc.markers.yaml, hash: 'sha256:c2e8ad89fbc4c5ddb55ff4fdfd8c156aa9db9d324a131c8087daf0b8f2dc03e1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -641,4 +641,4 @@ table_of_contents:
   label: 修養宜護持藥物第八
   type: section
   level: 1
-hash: sha256:2eb98cc36e849fe813f2dfd8d1a58cc0dbabe647fac2894a21bcbab3dd5a48d3
+hash: sha256:b856f09a8ac39a2dff0b766054e7263951e2832165b36b8cb9def41d432b971b

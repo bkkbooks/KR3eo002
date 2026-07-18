@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo002_000.yaml, hash: 'sha256:8302f796046c19e137c2aa43c04590320c79352da5c8cd320f80c5ef90a66ba7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:5d57a21023201f570225cd8349311876e2d9d952544f058d4d40e23904b88e78'}
+  - {seq: 0, role: markers, filename: assets/KR3eo002_000.markers.yaml, hash: 'sha256:4cc11653291e60990e5f0cc1ecb32e822de068f9455e12185deff4472872e966'}
 table_of_contents:
 - ref:
     seq: 0
@@ -641,7 +641,7 @@ table_of_contents:
   label: 修養宜護持藥物第八
   type: section
   level: 1
-hash: sha256:322ab0be6d55ae7fedc9387b1f50d4490dcb68350a73b054f43e15f65a0d6020
+hash: sha256:a1a25f6cd01c85fd6d85eb020ad6829b80fe8ed2db3cae5e0d76dfec7ebcdd92
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
